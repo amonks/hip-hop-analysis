@@ -1,6 +1,6 @@
 # Some thoughts on Black Star's *Respiration*
 
-The most recent version of this paper will probably always be available on Github at [this link](https://gist.github.com/amonks/8698653)
+The most recent version of this paper will probably always be available on Github at [this link](https://github.com/amonks/hip-hop-analysis/blob/master/respiration.md)
 
 ## Intro
 
