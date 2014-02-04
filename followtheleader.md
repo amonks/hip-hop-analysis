@@ -30,7 +30,11 @@ Eric B uses a Primo-style chorus: an interlude featuring turntablism and vocal s
 
 ## Rakim's Part
 
-Lyrically, *Follow The Leader* comes from a time when people were just barely starting to say thoughtful things in rap music. It shows. Content-wise, the song is pretty empty, replete with boastfulness and signifying. In a couple instances, R flirts with content by incorporating a vague theme of enlightenment. In one short snippet near the end of his second verse, R reveals through reference that the enlightenment to which you might follow him is found within the Five Percent Nation:
+Lyrically, *Follow The Leader* comes from a time when people were just barely starting to say thoughtful things in rap music. It shows. Content-wise, the song is pretty empty, replete with boastfulness and signifying.
+
+### Nation of Islam bullshit
+
+In a couple instances, R flirts with content by incorporating a vague theme of enlightenment. In one short snippet near the end of his second verse, R reveals through reference that the enlightenment to which you might follow him is found within the Five Percent Nation:
 
 >	God by nature, mind raised in Asia /
 >	Since you was tricked, I have to raise ya /
@@ -38,3 +42,26 @@ Lyrically, *Follow The Leader* comes from a time when people were just barely st
 >	But remember - you're not a slave 
 
 Five Percenters believe that God is the Asiatic Blackman, that 85% of the world has been misled or "tricked" by a malicious 10% to believe that god *isn't* the Asiatic Blackman, and that it's up to the remaining 5% of the world (the Poor Religious Teachers of the Five Percent Nation) to open eyes. Read within the context of this segment, the whole song becomes a call to follow Rakim's lead and join the Five Percenters. Fortunately, what Rakim lacks in lyrical content, he makes up for with wordplay and clever rhymes. 
+
+### Beef
+
+One interesting historical tidbit contained within the song is its references to short-lived beef between Rakim and EPMD's Erick Sermon. In his 1987 track, *I Ain't No Joke*, Rakim used the lines, 
+
+>	Play ‘em, so I’mma have to dis and broke /
+>	You could get a smack for this, I ain't no joke
+
+In their debut single, a year later, EPMD used the lines,
+
+>	It’s like a diggum smack /
+>	Smack me and I'll smack you back
+
+Because of the similar use of the word "smack", R's fans took EPMD's (actually cereal-refencing line) as a comeback diss, a response to Rakim's own verse, and goaded Rakim into retalliating on *Follow The Leader*,
+
+>	Stop buggin' a brother said dig him, I never dug him
+>	He couldn't follow the leader long enough so I drug him
+
+To be honest, I'm not entirely sure how this constitutes a retaliation. I can't find a specific reference within this line to EPMD, but Erick Sermon disagrees, [saying](http://www.youtube.com/watch?v=PRh_Njm4pS0) that the line was Rakim's attempt at "destroying [EPMD]." He later told NAS the story, and NAS summarized it in his 2004 track, *UBR (Unauthorized Biography of Rakim),*
+
+>	EPMD put a record out, was dope /
+>	Tension spread, and I quote "Smack me and I smack you back" /
+>	Sounded like the answer to the I Ain't No Joke track
