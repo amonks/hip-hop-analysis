@@ -18,9 +18,9 @@ The tension started to heat up, when Prodigy, a member of Mobb Deep and a good f
 
 >> So when I heard that, I was like, “Who is Jay talking about who is talking about hanging in Marcy in they line?” Then I thought about “Trife Life” in my verse I said “jetted through Marcy ‘cause D’s[detectives] ain’t baggin’ me” because I was out there...Then “Shook Ones” came out, then Jay came with the plastic cups, football jerseys in the projects, taking jabs at us. I was like Nas, what we need to do is go at these niggas because number one, his lil’ man is trying to shit on you; talking about your life is written and all this shit.
 
-While Nas kept quiet, Prodigy slowly escalated the beef, repeatedly taking shots in interviews at Jay-Z and the Roc-A-Fella roster. Eventually, in 2001, Jay-Z kicked things up a notch and debuted *Takeover*, the debut single off of his acclaimed 6th album, *The Blueprint*, at *Hot 97*'s 2001 Summer Jam, where his historical performance even included an [appearance by Michael Jackson](http://www.defjam.com/from-the-vault-jay-z-brings-out-michael-jackson-at-2001-hot97fm-summer-jam/). The track is a direct diss track, targetting both Prodigy and Nas, and the first album track to come out of the feud.
+While Nas kept quiet, Prodigy slowly escalated the beef, repeatedly taking shots in interviews at Jay-Z and the Roc-A-Fella roster. Eventually, in 2001, Jay-Z kicked things up a notch and debuted *Takeover*, the debut single off of his acclaimed 6th album, *The Blueprint*, at *Hot 97*'s 2001 Summer Jam, where his historical performance even included an [appearance by Michael Jackson](http://www.defjam.com/from-the-vault-jay-z-brings-out-michael-jackson-at-2001-hot97fm-summer-jam/). The track is a direct diss track, targeting both Prodigy and Nas, and the first album track to come out of the feud.
 
-Not to be outdone, Nas came back with *Ether*, an even harder-hitting diss. The track was so fierce, that in the words of [Son Raw](http://passionweiss.com/2012/09/11/the-25-greatest-outdated-rap-slang-words/), whom Wikipedia deems credible enough tq quote, “To 'ether' someone means to completely dismantle them in a rap battle with no regard for petty concerns such as 'logic' or 'cleverness' – it’s a giant shock-n-awe display of machismo meant to scar the victim for life and leave an unmistakable blemish on his career." The track revived Nas' career, and and *he* headlined *Hot 97*'s Summer Jam in 2002 and 2003.
+Not to be outdone, Nas came back with *Ether*, an even harder-hitting diss. The track was so fierce, that in the words of [Son Raw](http://passionweiss.com/2012/09/11/the-25-greatest-outdated-rap-slang-words/), whom Wikipedia deems credible enough to quote, “To 'ether' someone means to completely dismantle them in a rap battle with no regard for petty concerns such as 'logic' or 'cleverness' – it’s a giant shock-n-awe display of machismo meant to scar the victim for life and leave an unmistakable blemish on his career." The track revived Nas' career, and and *he* headlined *Hot 97*'s Summer Jam in 2002 and 2003.
 
 ## Takeover
 
@@ -32,7 +32,7 @@ Lyrically, the verses divide the song into thematic sections. Jay spends the fir
 
 The second verse focuses on Mobb Deep, and feels to me like another warm-up to the Nas part. Not to say Jay didn't go in: it effectively ended the meaningful phase in Mobb Deep's career. Their next album, *Infamy*, prominently featured two Jay-Z disses, attempted to replace their grimy sound with a poppier aesthetic, and generally wasn't good.
 
-The fresh use of the afforementioned *Fame* samples draw attention to the third verse, the song's longest and most interesting. Jay spends the verse disecting Nas. Interestingly, in lines like, "Had a spark when you started but now you're just garbage," Jay several times acknowledges the greatness of *Illmatic*. This makes his argument stronger: *Illmatic* really is a classic, and to dispute that would make Jay's other claims less credible; by bringing attention to Nas' early greatness, Jay makes his diss all the more poignant.
+The fresh use of the aforementioned *Fame* samples draw attention to the third verse, the song's longest and most interesting. Jay spends the verse dissecting Nas. Interestingly, in lines like, "Had a spark when you started but now you're just garbage," Jay several times acknowledges the greatness of *Illmatic*. This makes his argument stronger: *Illmatic* really is a classic, and to dispute that would make Jay's other claims less credible; by bringing attention to Nas' early greatness, Jay makes his diss all the more poignant.
 
 >>	You said you've been in this 10, I've been in it 5 - smarten up, Nas //
 >>	4 albums in 10 years, nigga? I could divide //
@@ -47,7 +47,7 @@ Ether was produced by Ron Browz. The beat employs a digital production aesthetic
 
 Like *Takeover*, *Ether* starts slow. The first verse is about how Nas is cool, and the second verse is about how Jay-Z is lame, and neither contains much more specific content than that. 
 
- In the 32-bar third verse, however, Nas goes into specifics. If *Takeover* stuck to one main argument ('you used to be good and now you are bad'), *Ether* does the opposite, using a shotgun-approach to bombard the Jay-Z and the Roc family with specific targetted callouts:
+ In the 32-bar third verse, however, Nas goes into specifics. If *Takeover* stuck to one main argument ('you used to be good and now you are bad'), *Ether* does the opposite, using a shotgun-approach to bombard the Jay-Z and the Roc family with specific targeted callouts:
 
 *	Jay Z hangs out with commercially successful artists to capitalize on their success
 
@@ -63,7 +63,7 @@ Much like Jay's argument in Takeover, these callouts are all pretty correct. *Et
 
 ## Conclusion
 
-I think the most interesting thing that came out of these two songs is the semi-beef between Kanye West and Ron Brows. In an interview with *XXL*, Ron recontextualized the beef as sampling-vs-synthesis, amusingly attempting to deligitimize sampling and discredit a huge part of Hip-Hop's history:
+I think the most interesting thing that came out of these two songs is the semi-beef between Kanye West and Ron Brows. In an interview with *XXL*, Ron re-contextualized the beef as sampling-vs-synthesis, amusingly attempting to de-legitimize sampling and discredit a huge part of Hip-Hop's history:
 
 >>	Come on. I did that from scratch. Kanye sampled it. Come on. My mother can go in the house and listen to a record, chop that, chop that and make that. You know I heard Kanye when he was saying that, “How can people compare them?” I did that from scratch, the keyboard, a drum machine, my drum patterns. That’s me playing the keyboard with the strings and all the additional percussion. And it was hard. That’s a sample. Come on, anybody can do that. Is y’all playing? “Yo, it’s better.” Nah. I mean, I don’t know who produced [“Takeover”]. Kanye know, man. He know deep in his heart what beat is harder. And you can just do a survey.
 

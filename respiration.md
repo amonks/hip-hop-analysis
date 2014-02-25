@@ -73,7 +73,7 @@ Mos Def's verse seems somewhat paradoxical: he says a bunch of depressing shit a
 
 Damn. Nuff said.
 
-But seriously, Talib's verse plays with feelings of urban desolation and hopelessness. Contrast between dreams and deaths. The perrennial grayness of a world where intra-gang success might feel like victory, but who are you really fighting against? "everything is fair
+But seriously, Talib's verse plays with feelings of urban desolation and hopelessness. Contrast between dreams and deaths. The perennial grayness of a world where intra-gang success might feel like victory, but who are you really fighting against? "everything is fair
 / It's a paradox we call reality"
 
 ## Common's Verse

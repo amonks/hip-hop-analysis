@@ -14,11 +14,11 @@ Eric B and Rakim's *Follow The Leader* is an anthem of movement. Every piece of 
 
 In my opinion, *Follow The Leader* is completely carried by a standout beat by Eric B. It opens with a beautiful, kinda-TB-303-sounding bassline that the New York Times at the time called, ["Space Age"](http://www.nytimes.com/1988/09/09/arts/sounds-around-town-851988.html). The line (and the song) are unusually fast for hip-hop, clocking in at a steady 110bpm. The bassline uses two sequences of short 16th notes, first from the 1 to the 2, then from the 3 to the 4. The quick repeated notes give the bassline a driving quality, further emphasized by the short length of the looped pattern. 
 
-The beat comes in quickly, with single bar intro that transitions elegantly into a looped percussion sample from Coke Escovedo's *I Wouldn't Change A Thing*. The sample features heavy use of open high hats, twice per bar, first between 1 and 2, then between 3 and 4. This intefaces well with the repeated bass loop, further emphasizing the forward drive of the fast beat. 
+The beat comes in quickly, with single bar intro that transitions elegantly into a looped percussion sample from Coke Escovedo's *I Wouldn't Change A Thing*. The sample features heavy use of open high hats, twice per bar, first between 1 and 2, then between 3 and 4. This interfaces well with the repeated bass loop, further emphasizing the forward drive of the fast beat. 
 
 ### Samples
 
-On top of the rhythm section, Eric B peppers in two more instrumental samples throughout the song. First, a repeated horn riff from Baby Huey's *Listen To Me*. Again, the horn is precicely selected to work with the rhythm of the bassline, coming in on the 2, the pickup to the 4, and the 4 itself. The sample's time-stretched very slightly, giving the horn a subtly ethereal sound. 
+On top of the rhythm section, Eric B peppers in two more instrumental samples throughout the song. First, a repeated horn riff from Baby Huey's *Listen To Me*. Again, the horn is precisely selected to work with the rhythm of the bassline, coming in on the 2, the pickup to the 4, and the 4 itself. The sample's time-stretched very slightly, giving the horn a subtly ethereal sound. 
 
 Doubling down on ethereal, Eric B introduces a string sample from Bob James' classic *Nautilus*. Nautilus has since been heavily oversampled, ([189 times](http://www.whosampled.com/Bob-James/Nautilus/), by WhoSampled's count), so in order to see if the song meets this somewhat-absurd metric of originality, I checked to see who was first. Prior to 1988, when *Follow The Leader* came out, Nautilus had apparently already been used a handful of times by artists such as Ultramagnetic MCs, Ice-T, and Geto Boys. 
 
@@ -55,7 +55,7 @@ In their debut single, a year later, EPMD used the lines,
 >	It’s like a diggum smack /
 >	Smack me and I'll smack you back
 
-Because of the similar use of the word "smack", R's fans took EPMD's (actually cereal-refencing line) as a comeback diss, a response to Rakim's own verse, and goaded Rakim into retalliating on *Follow The Leader*,
+Because of the similar use of the word "smack", R's fans took EPMD's (actually cereal-referencing line) as a comeback diss, a response to Rakim's own verse, and goaded Rakim into retaliating on *Follow The Leader*,
 
 >	Stop buggin' a brother said dig him, I never dug him
 >	He couldn't follow the leader long enough so I drug him

@@ -18,7 +18,7 @@ When thinking about The Underachievers, it's important to consider that their mu
 
 Like the rest of the mixtape, aptly called *Indigoism*, *Gold Soul Theory* deftly and sparingly appropriates the New Age pseudocsientifical concept of indigo children. According to [Nancy Tappe](http://allaboutindigos.com/), the originator of the concept, "In the early 1960's Indigos were rare, perhaps only one in 5,000. Today, 95% of the population is Indigo." They're purported to be uncannily spiritual, intelligent, empathetic, and resistant to authority. Indigo children change the people and communities around them. Nancy goes on to say that, "Their task is to integrate mankind to one world through a globalization that moves beyond political or economic boundaries and beyond personal biases and prejudices."
 
-Some say this "indigo generation" is meant to bring about a new age. By calling themselves indigo children, The Underachievers tell us not only that they're englightened on a personal level, but that they're trancscendental *rappers*,  bringing about a new age in *hip hop*. 
+Some say this "indigo generation" is meant to bring about a new age. By calling themselves indigo children, The Underachievers tell us not only that they're enlightened on a personal level, but that they're transcendental *rappers*,  bringing about a new age in *hip hop*. 
 
 ## Conclusion #youaskedforit
 
