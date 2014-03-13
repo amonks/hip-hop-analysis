@@ -1,6 +1,6 @@
 # Some thoughts on Devin The Dude's *Lacville '79*
 
-The most recent version of this paper will probably always be available on Github at [this link](https://github.com/amonks/hip-hop-analysis/blob/master/epar.md)
+The most recent version of this paper will probably always be available on Github at [this link](https://github.com/amonks/hip-hop-analysis/blob/master/lacville79.md)
 
 ## Intro
 
