@@ -7,8 +7,6 @@ title: Follow The Leader
 
 # Some thoughts on Eric B and Rakim's *Follow The Leader*
 
-Upon reading this, it's pretty clear how I divide my admiration between Eric B and Rakim...
-
 ## Intro
 
 Eric B and Rakim's *Follow The Leader* is an anthem of movement. Every piece of the song comes together to convey a forward-moving, desperately urgent feeling, as if R is running through the streets (or, you know, "around the universe") and we're frantically chasing him. Following his words and his rhythms.
