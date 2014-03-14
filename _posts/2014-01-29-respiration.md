@@ -7,8 +7,6 @@ title: Respiration
 
 # Some thoughts on Black Star's *Respiration*
 
-The most recent version of this paper will probably always be available on Github at [this link](https://github.com/amonks/hip-hop-analysis/blob/master/respiration.md)
-
 ## Intro
 
 Black Star's classic single *Respiration* deals with city life, both in New York, as told my Mos Def and Talib Kweli, and in Chicago, as told by Common. Like the other classics on *…Are Black Star*, Respiration was produced by Hi-Tek using a sample from *The Fox*, by Don Randi.

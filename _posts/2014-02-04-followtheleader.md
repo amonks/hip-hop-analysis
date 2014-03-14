@@ -7,8 +7,6 @@ title: Follow The Leader
 
 # Some thoughts on Eric B and Rakim's *Follow The Leader*
 
-The most recent version of this paper will probably always be available on Github at [this link](https://github.com/amonks/hip-hop-analysis/blob/master/followtheleader.md)
-
 Upon reading this, it's pretty clear how I divide my admiration between Eric B and Rakim...
 
 ## Intro

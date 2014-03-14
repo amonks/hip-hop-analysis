@@ -7,8 +7,6 @@ title: Straight Outta Compton
 
 # Some thoughts on NWA's *Straight Outta Compton*
 
-The most recent version of this paper will probably always be available on Github at [this link](https://github.com/amonks/hip-hop-analysis/blob/master/straightouttacompton.md)
-
 ## Intro
 
 *Straight Outta Compton* was the lead single off NWA's debut album of the same name. The track features a beat by Dr. Dre (co-produced by groupmember DJ Yella), and verses performed by Ice Cube, MC Ren, and Eazy-E. It was released in 1988.
