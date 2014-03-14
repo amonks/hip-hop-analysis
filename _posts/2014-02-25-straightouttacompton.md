@@ -1,3 +1,10 @@
+---
+
+layout: default
+title: Straight Outta Compton
+
+---
+
 # Some thoughts on NWA's *Straight Outta Compton*
 
 The most recent version of this paper will probably always be available on Github at [this link](https://github.com/amonks/hip-hop-analysis/blob/master/straightouttacompton.md)

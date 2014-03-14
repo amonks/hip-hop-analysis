@@ -1,3 +1,10 @@
+---
+
+layout: default
+title: Gold Soul Theory
+
+---
+
 # Some thoughts on The Underachievers's *Gold Soul Theory*
 
 The most recent version of this paper will probably always be available on Github at [this link](https://github.com/amonks/hip-hop-analysis/blob/master/goldsoultheory.md)
