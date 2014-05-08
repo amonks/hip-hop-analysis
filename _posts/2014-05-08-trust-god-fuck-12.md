@@ -1,8 +1,19 @@
-# Trust God Fuck 12
+---
+
+layout: default
+title: Trust God Fuck 12
+
+---
+
+# Some thoughts on Gucci Mane and Rich Homie Quan's *Trust God Fuck 12*, plus some additional thoughts on Young Thug.
+
+## Intro
 
 Gucci Mane released Trust God Fuck 12 on October 17, 2013, under the name The Big Homie Gucci with upcoming Atlanta native Rich Homie Quan. At the time we chose our paper topics, it was his most recent release. He's since put out *Young Thugga Maine LaFlare*, with Young Thug (who I'll mention later). 
 
 It's not his most popular release: it wasn't even included in his discography on Wikipedia until I just added it. However, it's one of his strongest recent releases. *Vibe* said, "Gucci sounds a little bit more coherent on this project, than on 2012's I'm Up and some of his World War 3 tapes. Actually, better than he has in awhile." The mixtape prominently features production by Zaytoven and Lex Luger, who made four tracks each for the album. It also boasts three and two tracks respectively with up-and-comers Young Thug and Young Scooter.
+
+## Gucci
 
 What else has The Big Homie Gucci been up to lately? Tom Breihan at *Stereogum* summarized it better than I could:
 
@@ -20,9 +31,13 @@ And it seems like it's working. In 2013, Gucci released 10 mixtapes (including t
 
 Caveman stated, "With Gucci, last year we did a total of 12 projects, including nine Gucci Mane projects and three 1017 projects.” He claims Gucci netted “about $1.3 million from that” in 2013. In 2012, he kicked off his acting career, starring as himself in the hit Harmony Korine movie Spring Breakers.
 
+## The Album
+
 The thing that really makes Trust God Fuck 12 stand out isn't Gucci's work, but that of his collaborators; the most interesting of which are Rich Homie Quan and Young Thugger. Quan, the sing-rapper whose banger Type Of Way was the smash of the summer, appeared on 11 of mixtape's 17 tracks. Young Thug rapped on two. 
 
 As is the currently fashionable Atlanta style, Gucci's music uses the voice more as a timbral instrument than as a conveyer of meaning. Young Thug and Rich Homie Quan apply the same approach, which gives the mixtape a very compelling variety of vocal deliveries: Gucci slurs like he's off his face on codeine, Thugger speaks alternately in high-pitched gutteral squaks and a more traditional drawl, and Quan's rap-singing adds a melodic content.
+
+## Young Thug
 
 I can't help talking about Young Thug right now, he's the hottest thing to come out of Atlanta in years. Complex says that, "according to Gucci Mane, he was so struck by Atlanta's Young Thug that he tracked down and recruited the younger rapper to his 1017 Brick Squad label personally". In the same article, Complex called him one of [25 new rappers to watch out for](http://www.complex.com/music/2013/07/25-new-rappers-to-watch-out-for/young-thug) in July, 2013. His track Danny Glover spawned a Nicki Minaj remix that included hands-down her best verse since 2010's Monster.
 
@@ -33,6 +48,8 @@ They're right. His public persona is fearless: he's eschewed the heteronormative
 In a world where gay rap is only just beginning to emerge even in trendy hipster circles with artists like Khalif 'Le1f' Diouf, Cakes Da Killa, and Big Momma, Thugger's huge pop chart performance is astonishing. 
 
 Anyway, on to the music.
+
+## The Good Tracks (ie the first half of the mixtape...)
 
 The mixtape opens with *Celebrity*, setting the tone with a straight-up Gucci mane track produced by Metro Boomin. Even the hook, "I got different nationalities / And they all got similarities / Baby I love your personality", is super idiotic and the lyrics don't really get better from here.
 
